@@ -117,5 +117,5 @@ This role taught me how to think beyond tasks — to see the student experience 
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/samadrita-roy-chowdhury)  
-📂 Back to Main Portfolio: [GitHub Profile](https://github.com/SamadritaR)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/samadrita-roy-chowdhury)  
+Back to Main Portfolio: [GitHub Profile](https://github.com/SamadritaR)

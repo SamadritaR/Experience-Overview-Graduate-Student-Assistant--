@@ -29,7 +29,7 @@ Helped restructure outreach strategy, contributing to a 25% increase in student 
 ## 2. Workflow Automation for Enrollment Reporting
 
 **Context:**  
-Manual Excel reporting for enrollment and funding was slow, inconsistent, and a poor use of staff time.
+Manual Excel reporting for enrollment and funding was time-consuming .
 
 **How I did it:**
 - Created automated pipelines using Python (Pandas, NumPy, OpenPyXL).
@@ -44,7 +44,7 @@ Cut manual effort by 40% and improved report consistency and reliability by 70%.
 ## 3. Executive Dashboarding with Power BI
 
 **Context:**  
-Leadership lacked visibility into enrollment, funding, and participation data. Static reports weren’t scalable.
+Visibility into enrollment, funding, and participation data needed to be enhanced. Static reports weren’t scalable.
 
 **How I did it:**
 - Designed Power BI dashboards to track KPIs by department and program type.
@@ -67,7 +67,7 @@ The existing Canvas page for Graduate Studies was cluttered and hard to navigate
 - Established a maintenance process to ensure updates stayed timely and accurate.
 
 **Result:**  
-Reduced repeated email inquiries and improved student access to essential information.
+The index page for the Office of graduate studies Webiste 
 
 ---
 
@@ -97,7 +97,7 @@ Graduate programs and funding opportunities were under-promoted, especially to n
 - Used short feedback forms to learn which formats were most effective.
 
 **Result:**  
-Increased outreach engagement and participation rate by 30% across key program cycles.
+Increased outreach engagement(followers across all social media platforms) by 85% and participation rate by 30% across key program cycles.
 
 ---
 

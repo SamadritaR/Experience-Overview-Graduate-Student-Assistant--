@@ -106,7 +106,7 @@ Increased outreach engagement(followers across all social media platforms) by 85
 
 - **Analytics & Automation**: Python, SQL, Pandas, OpenPyXL  
 - **Visualization**: Power BI, Excel macros  
-- **Content & Web Design**: Canvas LMS, Canva  
+- **Content & Web Design**: Cascade CMS, Canva  
 - **Operational Tools**: Excel, Google Forms, macros  
 - **Communication & Campaigns**: Targeted messaging, branding, stakeholder collaboration
 

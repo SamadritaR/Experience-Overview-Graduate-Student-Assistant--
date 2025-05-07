@@ -7,7 +7,7 @@
 **Duration**: October 2024 – Present  
 **Focus**: Data Analysis | Reporting Automation | Content Design | Student Engagement | Cross-functional Collaboration
 
-This role was about much more than reports and flyers — it was about helping a university department run smarter. From building pipelines to designing Canvas pages and running targeted outreach campaigns, I contributed across technical, operational, and creative fronts.
+This role was about much more than reports and flyers — it was about helping a university department run smarter. From building pipelines to designing Cascade pages and running targeted outreach campaigns, I contributed across technical, operational, and creative fronts.
 
 ---
 
@@ -114,7 +114,7 @@ Increased outreach engagement(followers across all social media platforms) by 85
 
 ## Final Reflection
 
-This role taught me how to think beyond tasks — to see the student experience and operations as a whole system. Whether automating reports or designing a Canvas page, my goal was always to make things clearer, smoother, and more impactful.
+This role taught me how to think beyond tasks — to see the student experience and operations as a whole system. Whether automating reports or designing a Cascade CMS page, my goal was always to make things clearer, smoother, and more impactful.
 
 ---
 

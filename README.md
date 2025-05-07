@@ -56,18 +56,19 @@ Improved reporting efficiency by 35% and introduced data-driven discussions in r
 
 ---
 
-## 4. Website Design Using Canvas CMS
+## 4. Website Design Using Cascade CMS
 
 **Context:**  
-The existing Canvas page for Graduate Studies was cluttered and hard to navigate, leading to frequent student confusion.
+The website for the Office of Graduate Studies needed a major revamp. The existing layout was cluttered, and students struggled to find key information about graduate programs, deadlines, and forms.
 
 **How I did it:**
-- Audited and reorganized content into structured categories.
-- Simplified navigation for forms, events, deadlines, and contact info.
-- Established a maintenance process to ensure updates stayed timely and accurate.
+- Redesigned the layout and interface to be more intuitive and student-friendly.
+– Audited the site’s content and reorganized it into clear, easy-to-navigate sections.
+– Streamlined access to forms, deadlines, events, and contact details.
+– Set up a simple maintenance process to keep content updated and reliable.
 
 **Result:**  
-The index page for the Office of graduate studies Webiste 
+The redesigned index page made a big impact—user experience improved noticeably, and program coordinators reported a 30% drop in repetitive inquiries from prospective students
 
 ---
 
